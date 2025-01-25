@@ -16,6 +16,14 @@ body {
   color: rgb(0, 0, 0);
 }
 
+header,
+main,
+section,
+article,
+footer {
+  container-type: inline-size;
+}
+
 img,
 picture,
 video,
